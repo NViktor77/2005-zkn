@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0edd694a-0a8d-499d-a91d-b8b9256dc88d" name="Changes" comment="Created draft project" />
+    <list default="true" id="0edd694a-0a8d-499d-a91d-b8b9256dc88d" name="Changes" comment="ST-001: Added Sorter interface and BubbleSorter" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +15,33 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="develop" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -31,7 +57,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "feture/ST-001-adding-start-class",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -56,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762348270130</updated>
-      <workItem from="1762348271364" duration="485000" />
+      <workItem from="1762348271364" duration="1649000" />
     </task>
     <task id="LOCAL-00001" summary="Created draft project">
       <option name="closed" value="true" />
@@ -66,7 +92,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762348679189</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ST-001: Added start class">
+      <option name="closed" value="true" />
+      <created>1762349635068</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762349635068</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ST-001: Added Sorter interface and BubbleSorter">
+      <option name="closed" value="true" />
+      <created>1762349849497</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762349849497</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +127,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created draft project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created draft project" />
+    <MESSAGE value="ST-001: Added start class" />
+    <MESSAGE value="ST-001: Added Sorter interface and BubbleSorter" />
+    <option name="LAST_COMMIT_MESSAGE" value="ST-001: Added Sorter interface and BubbleSorter" />
   </component>
 </project>
